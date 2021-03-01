@@ -13,3 +13,5 @@ Rollable encounter tables, NPCs, Weapons, Cyberware, Netrunner attacks, basic it
 1.2: Added Ammo, Armor and some Drugs.
 
 1.3: Added life path roll tables, thanks to Segz.
+
+1.3.5: Removed NPC reference for now, different sheet and actor type.
